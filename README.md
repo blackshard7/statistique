@@ -15,3 +15,8 @@ L'application permettra d'afficher les statistiques suivantes :
 * valeur maximum
 
 
+## Exécuter l'application
+
+```shell
+python3 main.py
+```
