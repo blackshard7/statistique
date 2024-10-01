@@ -20,5 +20,5 @@ L'application permettra d'afficher les statistiques suivantes :
 ```shell
 python3 main.py
 ```
-## Capture d'écran de l'application
+### Capture d'écran de l'application
 ![](Application_Statistique.png)
